@@ -1,2 +1,2 @@
-# MathBorederWeb-v1
+# MathBorderWeb-v1
 数学边界合作项目
