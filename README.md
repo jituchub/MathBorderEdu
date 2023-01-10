@@ -1,2 +1,2 @@
 # MathBorderWeb-v1
-数学边界合作项目
+数学边界仓库
